@@ -1,0 +1,29 @@
++--------NN----------+
+| 					 |
+| 					 |
+| 					 |
+| 					 |
+|					 |
+|					 |
+|					 |
+|					 |
+|					 |
++--------------------+
+You are standing at the KITCHEN.
+There is nothing in this room.
+
++--------------------+
+|					 |
+|					 |
+|					 |
+|					 |
+W					 |
+|					 |
+|					 |
+|					 |
+|					 |
++--------------------+
+You are standing at the PLAYROOM.
+There is nothing in this room.
+
+

@@ -1,0 +1,4 @@
+LOOK
+TALK
+N
+W

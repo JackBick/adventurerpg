@@ -1,0 +1,10 @@
+QUESTS
+N
+looK
+DESTROY DEVIL
+L
+CHEck
+Devil Head
+check
+me
+ATTACK the creature

@@ -1,0 +1,6 @@
+HotelLobby > NORTH > Elevator
+HotelLobby > WEST > Bar
+HotelLobby > EAST > Reception
+Elevator > SOUTH
+Bar > EAST > HotelLobby
+Reception > WEST > HotelLobby

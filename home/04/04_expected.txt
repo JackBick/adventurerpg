@@ -1,0 +1,63 @@
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the DoorToHell.
+There is nothing in this room.
+
+#00: Devil HEad - ATTACK the creature.  
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the HELL!!
+Around you are the fiery pits of hell, a demonic creature looks at you with hungry eyes
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the HELL!!
+The fires of hell burn less brightly, and you stand alone.
+
+
+>>>Check what?
+
+Devil Head
+Grants a bonus of 10 to SKILL.
+Grants a bonus of 0 to WILL.
+
+>>>Check what?
+
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Devil Head
+Grants a bonus of 10 to SKILL.
+Grants a bonus of 0 to WILL.
+
+With your items, you have a SKILL level of 15 and a WILL power of 5.
+
+You have already completed this quest.

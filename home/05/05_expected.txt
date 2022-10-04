@@ -1,0 +1,102 @@
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the HotelLobby.
+There is nothing in this room.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bar.
+There is nothing in this room.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    S
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the HotelLobby.
+There is nothing in this room.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Reception.
+There is nothing in this room.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    S
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the HotelLobby.
+There is nothing in this room.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Elevator.
+There is nothing in this room.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Elevator.
+There is nothing in this room.
+
+You have:
+Nothing
+
+

@@ -1,0 +1,33 @@
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Beginning.
+There is nothing in this room.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Checkpoint1.
+There is nothing in this room.
+
+You can't go that way
+
+You can't go that way
+
+You can't go thay way
